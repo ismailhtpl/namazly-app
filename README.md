@@ -1,0 +1,1 @@
+# namazly-app
